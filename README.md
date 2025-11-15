@@ -1,4 +1,4 @@
-# WA_FundCI_Lab02
+# WA_FundCI_Lab02_01
 
 Repositório para a atividade realizada na disciplina de Fundamentos de CI e Deploy de Aplicação Web do curso Web Academy - Turma 5
 
